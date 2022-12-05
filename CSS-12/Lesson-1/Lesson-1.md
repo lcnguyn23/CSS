@@ -24,9 +24,8 @@
 <p></p>
 <span></span>
 ...
-```
-
 `<>`: opening tag
+
 `</>`: closing tag
 
 **Self-closing tags**:
@@ -163,5 +162,3 @@ p {
   <p style="color:red;">This is a paragraph.</p>
 </body>
 ```
-
-## First web page

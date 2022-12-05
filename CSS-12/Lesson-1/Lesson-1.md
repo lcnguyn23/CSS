@@ -32,7 +32,7 @@
 - Attribute: `href="www.example.com"`
 
 #### HTML Structure
-```sh
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>

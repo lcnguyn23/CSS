@@ -12,13 +12,13 @@
     <p>
       <span> ...</span>
     </p>
-  </div></a
->
+  </div>
+</a>
 ```
 
 #### Tags
 
-```html
+````html
 <a></a>
 <div></div>
 <p></p>
@@ -31,12 +31,12 @@
 **Self-closing tags**:
 
 ```html
-<br />
-<img />
-<meta />
-<link />
+<br>
+<img>
+<meta>
+<link>
 ...
-```
+````
 
 #### Attributes
 

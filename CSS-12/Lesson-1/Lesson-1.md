@@ -17,7 +17,9 @@
 `<p></p>`
 `<span></span>`
 ...
+
 `<>`: opening tag
+
 `</>`: closing tag
 
 **Self-closing tags**:

@@ -152,8 +152,9 @@ div {
   box-sizing: content-box;
 }
 ```
+
 `-webkit-`: Webkit (Google Chrome & Apple Safari)
-`-moz-`: Mozilla Firefox 
+`-moz-`: Mozilla Firefox
 `-ms-`: Microsoft Internet Explorer
 
 #### Padding box
@@ -175,6 +176,3 @@ div {
   box-sizing: border-box;
 }
 ```
-
-
-

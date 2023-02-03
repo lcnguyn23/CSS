@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/CSS-12/Lesson-7/assets/style.css">
+  <title>Document</title>
+</head>
+<body>
+  <li class="list-tem all active"></li>
+  <li class="list-tem full"></li>
+  <li class="list-tem part"></li>
+
+
+  <script>
+    const all = document.querySelector("li");
+
+    all.addEventListener("click", (e) => {
+      e.preventDefault();
+      const all1 = document.querySelector(".list-item .all");
+      const full = document.querySelector(".list-item .full");
+      const part = document.querySelector(".list-item .part");
+      
+      if(!e.target.classList.contains("active")) {
+        e.target.classList.add("active");
+      } else {
+        e.target.classList.remove("active");
+      }
+    })
+
+  </script>
+</body>
+</html>

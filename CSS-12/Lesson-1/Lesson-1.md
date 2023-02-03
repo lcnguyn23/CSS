@@ -18,7 +18,7 @@
 
 #### Tags
 
-````html
+```html
 <a></a>
 <div></div>
 <p></p>
@@ -27,7 +27,7 @@
 `<>`: opening tag
 
 `</>`: closing tag
-
+```
 **Self-closing tags**:
 
 ```html
@@ -36,7 +36,7 @@
 <meta>
 <link>
 ...
-````
+```
 
 #### Attributes
 

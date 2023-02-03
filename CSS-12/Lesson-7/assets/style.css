@@ -1,0 +1,15 @@
+body {
+  display: block;
+}
+
+li {
+  width: 100px;
+  height: 100px;
+  background: gold;
+  margin-top: 20px;
+  border: 1px solid black;
+}
+
+.active {
+  background: blueviolet;
+}

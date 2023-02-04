@@ -21,6 +21,16 @@ div {
 
 ```css
 div {
-  
+  background-image: url("example.png");
+  background-repeat: no-repeat; /*repeat, repeat-x, repeat-y*/
+}
+```
+
+#### Background position
+```css
+div {
+  background-image: url("example.png");
+  background-position: 20px 10px;
+  background-repeat: no-repeat;
 }
 ```

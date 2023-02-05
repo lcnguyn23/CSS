@@ -34,3 +34,21 @@ div {
   background-repeat: no-repeat;
 }
 ```
+
+#### Linear gradient background
+```css
+div {
+  background: #466368;
+  background: -webkit-linear-gradient(#648880, #293f50);
+  background:    -moz-linear-gradient(#648880, #293f50);
+  background:         linear-gradient(#648880, #293f50);
+}
+```
+#### Changing the direction of the gradient
+```css
+div {
+  background: #466368;
+  background: linear-gradient(to right bottom, #648880, #293f50);
+}
+```
+

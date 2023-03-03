@@ -1,0 +1,26 @@
+header {
+  background: lightblue;
+  color: rgb(44, 43, 43);
+  height: 100vh;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: rgb(144, 144, 227);
+}
+header button {
+  background: rgb(42, 142, 146);
+}
+header button:hover {
+  background: red;
+}
+
+.contact {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: rgb(225, 150, 150);
+}/*# sourceMappingURL=style.css.map */

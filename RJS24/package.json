@@ -5,9 +5,9 @@
   },
   "main": "/index.js",
   "devDependencies": {
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^1.0.0"
   },
-  "name": "RJS24",
+  "name": "723948",
   "description": null,
   "version": "0.0.0",
   "scripts": {
@@ -15,17 +15,5 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
-  },
-  "browserslist": {
-    "production": [
-      ">0.2%",
-      "not dead",
-      "not op_mini all"
-    ],
-    "development": [
-      "last 1 chrome version",
-      "last 1 firefox version",
-      "last 1 safari version"
-    ]
   }
 }

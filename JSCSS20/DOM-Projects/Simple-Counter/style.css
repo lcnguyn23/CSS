@@ -1,0 +1,49 @@
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #F1F5F8;
+  font-size: 62.5%;
+  font-family: "Roboto", "Open Sans", sans-serif;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #222;
+}
+
+#counter {
+  font-size: 16rem;
+}
+
+.btn {
+  margin-top: 1rem;
+  font-size: 2.5rem;
+  background: transparent;
+  border-radius: .5rem;
+  letter-spacing: .3rem;
+  transition: background 0.3s linear;
+  border: 0.2rem solid #222;
+  padding: .5rem .5rem .5rem .5rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.btn:hover {
+  color: #fff;
+  background: #222;
+}
